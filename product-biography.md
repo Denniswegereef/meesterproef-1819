@@ -191,4 +191,14 @@ Maaaaar het resultaat mag er zijn, een belachelijk goede performance en de audit
 
 ![images/](/images/aduit.png)
 
-##
+## Leerdoelen
+
+**Wat wil ik nog leren**
+
+- Contact tussen client, server, en source is elegant opgezet, bijvoorbeeld door OAuth of goede security in te zetten. Opzet getuigd van inzicht in de uitdagingen die bij simultaan gebruik door meerdere gebruikers komen kijken.
+
+- Het datamodel is op een slimme manier opgezet die van dieper inzicht getuigd. Je hebt een datamodel gecreëerd dat nauw aansluit op jouw app en data
+
+- Je hebt methodes gecreëerd die clients in staat stelt middels jouw eigen API te communiceren met jouw server. Real time connectiviteit is op een slimme manier opgezet
+
+- Je geeft zodanig feedback op de juiste momenten, dat de user experience er beter van wordt
